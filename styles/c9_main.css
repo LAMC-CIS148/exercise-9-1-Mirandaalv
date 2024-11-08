@@ -161,11 +161,9 @@ footer p {
 	header img { float: none; }
 	header { text-align: center; }
 	section {
-		float: none;
 		width: 95%;
 	}
 	aside {
-		float: none;
 		padding-right: 2.5%;
 		width: 95%;
 	}
